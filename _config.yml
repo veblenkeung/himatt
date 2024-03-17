@@ -18,9 +18,9 @@ include:
   - _redirects
 
 # Site settings
-title: Matt Grey
+title: Yiqiu Jiang
 long-title: Matt Grey Design
-email: mattgreydesign@gmail.com
+email: jyq@live.com
 description: "The selected portfolio of London based digital product designer Matt Grey"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://himatt.com" # the base hostname & protocol for your site
