@@ -48,10 +48,10 @@
         @include grid-column(12);
       }
 
-      .about-tools,
-      .about-skills,
-      .about-education,
-      .about-experience {
+      .about-项目,
+      .about-技能,
+      .about-教育,
+      .about-工作经历 {
         @include grid-column(6);
 
         @include grid-media(phablet) {
