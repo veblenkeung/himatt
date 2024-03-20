@@ -159,7 +159,7 @@ about_site: |
     <div class="about-attributes">
       <div class="about-experience">
         <div class="about-section">
-          <h3 class="about-section-title type-level-2">Experience</h3>
+          <h3 class="about-section-title type-level-2">工作经验</h3>
           <dl class="relational-list">
             {% for experience-item in page.experience %}
               <dt class="relational-list__title">{{ experience-item.company | markdownify}}</dt>
@@ -172,7 +172,7 @@ about_site: |
 
       <div class="about-education">
         <div class="about-section">
-          <h3 class="about-section-title type-level-2">Education</h3>
+          <h3 class="about-section-title type-level-2">教育</h3>
           <dl class="relational-list">
             {% for education-item in page.education %}
               <dt class="relational-list__title">{{ education-item.course | markdownify}}</dt>
@@ -182,7 +182,7 @@ about_site: |
         </div>
 
         <div class="about-section about-section--nested">
-          <h3 class="about-section-title type-level-2">Competitions</h3>
+          <h3 class="about-section-title type-level-2">奖项</h3>
           <dl class="relational-list">
             {% for competition-item in page.competitions %}
               <dt class="relational-list__title">{{ competition-item.event | markdownify}}</dt>
@@ -195,7 +195,7 @@ about_site: |
 
       <div class="about-tools">
         <div class="about-section">
-          <h3 class="about-section-title type-level-2">Tools &amp; technologies</h3>
+          <h3 class="about-section-title type-level-2">个人项目</h3>
           <ul class="list--dashed list--small">
             {% for tool in page.tools %}
               <li>{{ tool | markdownify }}</li>
@@ -206,7 +206,7 @@ about_site: |
 
       <div class="about-skills">
         <div class="about-section">
-          <h3 class="about-section-title type-level-2">Skills</h3>
+          <h3 class="about-section-title type-level-2">技能</h3>
           <ul class="list--dashed">
             {% for skill in page.skills %}
               <li>{{ skill }}</li>
@@ -218,7 +218,7 @@ about_site: |
 
     <div class="about-site">
       <div class="about-section about-site-description">
-        <h3 class="about-section-title type-level-2">Colophon: about this site</h3>
+        <h3 class="about-section-title type-level-2">与我联系</h3>
         <div class="paragraph-small">{{ page.about_site | markdownify }}</div>
       </div>
     </div>
