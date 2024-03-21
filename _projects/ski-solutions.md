@@ -1,30 +1,22 @@
 ---
-date: 2017-6-1
+date: 2024-3-21
 published: true
-title: "Ski Solutions"
-description: "Responsive experience redesign for a tailor-made ski tour operator"
-categories: website, ux, mobile
-disciplines: UX, Responsive web design, HTML/CSS
-media: Website
+title: "米家 智能轻音破壁机 S1"
+description: "Mi Smart Light Sound Blender S1"
+categories: Product Design
+disciplines: Product Design,Industrial Design
+media: if design
 ownership:
-client: Ski Solutions
-time_period: 2017
+client: Xiaomi Inc.
+time_period: 2023
 thumbnail: "/projects/ski-solutions/plist-ski-solutions.jpg"
 
 website:
-  button_text: Visit the site
-  url: https://www.skisolutions.com
+  button_text: iF DESIGN AWARD
+  url: https://ifdesign.com/en/winner-ranking/project/mi-smart-light-sound-blender-s1/645862
 
 intro: |
-  The absence of full mobile device support was negatively impacting on
-  Ski Solution's conversions and search engine rankings considerably. The site
-  at the time had a separate mobile site with a stripped down feature-set. The
-  solution was to create a fully redesigned responsive experience and optimise
-  the website from the bottom up to improve SEO and drive enquiries.
-
-  Working from a mobile first approach, I redesigned the site to work across
-  mobile, tablet and desktop, creating a CSS framework and icon font to maintain
-  consistency with the colours, geometry and component styles.
+  它带有隔音罩，可用于制备一系列水果和蔬菜冷饮，以及豆浆、米糊和其他热饮，噪音降低（最低42dB）。凭借独特的热水性豆浆制作功能，它可以在12分钟内为用户呈现美味的豆浆。8片精钢勾兑弯刀刀片，可勾兑各种硬质食品。陶瓷不粘锅可防止烹饪过度，便于清洁。与小米家庭应用程序配对后，用户可以随时查看烹饪状态，使烹饪更容易、更愉快。
 
 content_layout:
   - section_layout: 1col
