@@ -2,14 +2,14 @@
 date: 2017-01-1
 published: true
 sitemap: false
-title: "Butterfly"
-description: "Experience, architecture and design for a social networking app made for creatives"
+title: "米家智能蒸烤箱20L"
+description: "xiaomi Intelligence Steam oven 20L"
 categories: app, ux, mobile
 disciplines: UX, App design, Information Architecture
 media: Mobile App
 ownership:
 client: Butterfly
-time_period: 2017
+time_period: 2023
 thumbnail: "/projects/butterfly/plist-butterfly.jpg"
 
 website:
