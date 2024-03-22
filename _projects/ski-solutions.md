@@ -4,7 +4,7 @@ published: true
 title: "米家 智能轻音破壁机 S1"
 description: "Mi Smart Light Sound Blender S1"
 categories: Product Design
-disciplines: Product Design,Industrial Design
+disciplines: Product Design
 media: if design
 ownership:
 client: Xiaomi Inc.
